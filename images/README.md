@@ -18,7 +18,9 @@ the hero, which is eager + `fetchpriority="high"`).
 | `band-grounds.jpg` | Home full-width band — sunset panorama of the grounds |
 | `swim.jpg` | Things-to-do bento + home Local adventures — swimming pool |
 | `eats.jpg` | Things-to-do bento + home Local adventures — local restaurant |
-| `park.svg`, `pond.svg` | **Placeholders** — still need real photos (Mason-Dixon Park, a fishing pond) |
+| `park.jpg` | Things-to-do bento + home Local adventures — Mason-Dixon Park (Almost Heaven WV sign) |
+| `pond.jpg` | Things-to-do bento + home Local adventures — Lake Wilma |
+| `library.jpg` | Things-to-do bento + home Local adventures — local library kids area |
 | `icon.svg` | Favicon / brand mark (campfire badge); source for `/favicon.ico` |
 | `apple-touch-icon.png` | iOS home-screen icon (180x180), from `icon.svg` |
 | `logo.svg` | Full badge logo, used in the page footers |
