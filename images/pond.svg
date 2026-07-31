@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="520" viewBox="0 0 700 520" role="img">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#8fa6ad"/><stop offset="50%" stop-color="#5f7d86"/><stop offset="100%" stop-color="#3a525c"/>
+</linearGradient>
+<radialGradient id="sun" cx="50%" cy="60%" r="55%">
+<stop offset="0%" stop-color="#f3ead4" stop-opacity=".85"/>
+<stop offset="45%" stop-color="#DCC6A1" stop-opacity=".45"/>
+<stop offset="100%" stop-color="#DCC6A1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="700" height="520" fill="url(#g)"/>
+<g stroke="#ffffff" stroke-opacity="0.16" stroke-width="3"><line x1="0" y1="300" x2="700" y2="300"/><line x1="0" y1="360" x2="700" y2="360"/></g>
+<text x="350.0" y="494" font-family="Montserrat, sans-serif" font-size="13" fill="#ffffff" fill-opacity="0.6" text-anchor="middle" letter-spacing="1.5">Photo: fishing pond</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#8aa39f"/><stop offset="32%" stop-color="#6f8d77"/><stop offset="60%" stop-color="#34543e"/><stop offset="100%" stop-color="#142a1d"/>
+</linearGradient>
+<radialGradient id="sun" cx="50%" cy="60%" r="55%">
+<stop offset="0%" stop-color="#f3ead4" stop-opacity=".85"/>
+<stop offset="45%" stop-color="#DCC6A1" stop-opacity=".45"/>
+<stop offset="100%" stop-color="#DCC6A1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1600" height="1000" fill="url(#g)"/>
+<circle cx="1050" cy="560" r="240" fill="url(#sun)"/><path d="M0 740.0 Q 400.0 620.0 800.0 700.0 T 1600 670.0 V 1000 H 0 Z" fill="#163022" fill-opacity="0.55"/><path d="M300 720 l28.8 67.2 h-57.6 Z M300 748.8 l35.2 70.4 h-70.4 Z" fill="#163022" fill-opacity="0.9"/><path d="M1380 700 l25.2 58.8 h-50.4 Z M1380 725.2 l30.799999999999997 61.599999999999994 h-61.599999999999994 Z" fill="#163022" fill-opacity="0.9"/><path d="M1460 720 l21.599999999999998 50.4 h-43.199999999999996 Z M1460 741.6 l26.4 52.8 h-52.8 Z" fill="#163022" fill-opacity="0.9"/>
+<text x="800.0" y="974" font-family="Montserrat, sans-serif" font-size="26" fill="#ffffff" fill-opacity="0.6" text-anchor="middle" letter-spacing="1.5">HERO PHOTO  ·  replace images/hero-camp-dusk.jpg</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#4f6f55"/><stop offset="50%" stop-color="#34543e"/><stop offset="100%" stop-color="#163022"/>
+</linearGradient>
+<radialGradient id="sun" cx="50%" cy="60%" r="55%">
+<stop offset="0%" stop-color="#f3ead4" stop-opacity=".85"/>
+<stop offset="45%" stop-color="#DCC6A1" stop-opacity=".45"/>
+<stop offset="100%" stop-color="#DCC6A1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1600" height="620" fill="url(#g)"/>
+<circle cx="1120" cy="300" r="200" fill="url(#sun)"/><path d="M260 420 l39.6 92.4 h-79.2 Z M260 459.6 l48.400000000000006 96.80000000000001 h-96.80000000000001 Z" fill="#163022" fill-opacity="0.9"/><path d="M1360 430 l32.4 75.60000000000001 h-64.8 Z M1360 462.4 l39.6 79.2 h-79.2 Z" fill="#163022" fill-opacity="0.9"/>
+<text x="800.0" y="594" font-family="Montserrat, sans-serif" font-size="16" fill="#ffffff" fill-opacity="0.6" text-anchor="middle" letter-spacing="1.5">Photo: wide view of the campground</text>
+</svg>
