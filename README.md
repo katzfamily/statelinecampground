@@ -1,6 +1,6 @@
-# Stateline Campground
+# State Line Campground
 
-Marketing site for **Stateline Campground**, a family-owned RV park in
+Marketing site for **State Line Campground**, a family-owned RV park in
 Blacksville, WV, on the West Virginia / Pennsylvania border.
 
 It is a static site — plain HTML, one stylesheet, and a small JS file — built
