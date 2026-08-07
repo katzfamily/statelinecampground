@@ -1,0 +1,6 @@
+# Force every variant to the canonical https:// apex domain so Google
+# consolidates ranking signal onto one URL instead of splitting it across
+# www / non-www / http versions.
+http://www.statelinecampground.com/*    https://statelinecampground.com/:splat    301!
+https://www.statelinecampground.com/*   https://statelinecampground.com/:splat    301!
+http://statelinecampground.com/*        https://statelinecampground.com/:splat    301!
