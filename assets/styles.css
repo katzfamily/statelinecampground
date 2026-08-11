@@ -351,6 +351,15 @@ footer { background:var(--forest-deep); color:#fff; }
 .related a:hover { transform:translateY(-4px); box-shadow:var(--shadow-md); }
 .related h3 { font-size:18px; color:var(--charcoal); margin-bottom:6px; }
 .related p { font-size:14px; color:var(--stone); }
+.areas-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px; margin-top:44px; }
+.area-card { display:block; background:var(--paper); border:1px solid var(--line); border-radius:var(--r); padding:22px 22px 20px; text-decoration:none; transition:transform .3s var(--ease), box-shadow .3s; }
+.area-card:hover { transform:translateY(-4px); box-shadow:var(--shadow-md); }
+.area-town { display:flex; align-items:center; gap:8px; font-family:'Zilla Slab',serif; font-weight:700; font-size:20px; color:var(--charcoal); line-height:1.2; }
+.area-town svg { width:17px; height:17px; color:var(--sunset); flex:none; }
+.area-county { display:block; font-family:'Montserrat',sans-serif; font-size:11px; font-weight:600; letter-spacing:1.5px; text-transform:uppercase; color:var(--sunset); margin-top:6px; }
+.area-desc { display:block; font-size:14.5px; line-height:1.6; color:var(--stone); margin-top:10px; }
+.area-link { display:block; font-size:13.5px; font-weight:600; color:var(--sunset); margin-top:13px; }
+.area-card:hover .area-link { text-decoration:underline; text-underline-offset:3px; }
 
 /* ---------- sticky mobile call bar ---------- */
 .callbar {
